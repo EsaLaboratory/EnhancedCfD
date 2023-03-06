@@ -1,4 +1,4 @@
-# Enhanced CfD
+# Great Britain High-Fidelity Transmission Network and Balancing Mechanism Data
 
 ## Citation
 
